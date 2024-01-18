@@ -83,3 +83,11 @@ C:\Users\Azat\Documents\GitHub\AspNetCore_Works\RapidAPI_HotelProject\MyProject\
 C:\Users\Azat\Documents\GitHub\AspNetCore_Works\RapidAPI_HotelProject\MyProject\ApiConsume\HotelProject.WebApi\obj\Debug\net7.0\HotelProject.WebApi.pdb
 C:\Users\Azat\Documents\GitHub\AspNetCore_Works\RapidAPI_HotelProject\MyProject\ApiConsume\HotelProject.WebApi\obj\Debug\net7.0\HotelProject.WebApi.genruntimeconfig.cache
 C:\Users\Azat\Documents\GitHub\AspNetCore_Works\RapidAPI_HotelProject\MyProject\ApiConsume\HotelProject.WebApi\obj\Debug\net7.0\ref\HotelProject.WebApi.dll
+C:\Users\Azat\Documents\GitHub\AspNetCore_Works\RapidAPI_HotelProject\MyProject\ApiConsume\HotelProject.WebApi\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Azat\Documents\GitHub\AspNetCore_Works\RapidAPI_HotelProject\MyProject\ApiConsume\HotelProject.WebApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Azat\Documents\GitHub\AspNetCore_Works\RapidAPI_HotelProject\MyProject\ApiConsume\HotelProject.WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Azat\Documents\GitHub\AspNetCore_Works\RapidAPI_HotelProject\MyProject\ApiConsume\HotelProject.WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Azat\Documents\GitHub\AspNetCore_Works\RapidAPI_HotelProject\MyProject\ApiConsume\HotelProject.WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Azat\Documents\GitHub\AspNetCore_Works\RapidAPI_HotelProject\MyProject\ApiConsume\HotelProject.WebApi\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Azat\Documents\GitHub\AspNetCore_Works\RapidAPI_HotelProject\MyProject\ApiConsume\HotelProject.WebApi\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Azat\Documents\GitHub\AspNetCore_Works\RapidAPI_HotelProject\MyProject\ApiConsume\HotelProject.WebApi\bin\Debug\net7.0\Microsoft.Extensions.Options.dll

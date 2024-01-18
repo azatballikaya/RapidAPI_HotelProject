@@ -1,7 +1,25 @@
+using HotelProject.DataAccessLayer.Concrete;
+using HotelProject.EntityLayer.Concrete;
+using Microsoft.AspNetCore.Identity;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddHttpClient();
+builder.Services.AddAutoMapper(typeof(Program));
+builder.Services.AddDbContext<Context>();
+builder.Services.AddIdentity<AppUser, AppRole>().AddEntityFrameworkStores<Context>();
+
+
+//builder.Services.Configure<IdentityOptions>(options =>
+//{
+//    // Default Lockout settings.
+//    options.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(5);
+//    options.Lockout.MaxFailedAccessAttempts = 5;
+//    options.Lockout.AllowedForNewUsers = true;
+    
+//});
 
 var app = builder.Build();
 
