@@ -4,7 +4,7 @@ namespace HotelProject.WebUI.ViewComponents.Default
 {
     public class _HeadPartial:ViewComponent
     {
-        public IViewComponentResult Invoke()
+        public async Task<IViewComponentResult> InvokeAsync()
         {
             return View();
         }
