@@ -43,7 +43,7 @@ namespace HotelProject.DataAccessLayer.Concrete
 
         public void Update(T p)
         {
-            _context.Set<T>().Update(p);
+            _context.Update(p);
             _context.SaveChanges();
         }
     }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RapidApi.Consume")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62b63115d4378995aa5577d5afbd43df8c53cb99")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bd09dae349f752d946c45ccaffb02e38739a2ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("RapidApi.Consume")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RapidApi.Consume")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
